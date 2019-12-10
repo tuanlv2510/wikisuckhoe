@@ -111,3 +111,5 @@ ________________
 - `Chi phí khám phụ khoa <http://phukhoahungthinh.vn/chi-phi-kham-phu-khoa-gia-het-bao-nhieu-tien/>`_
 
 - `Chi phí xét nghiệm giang mai <http://phukhoahungthinh.vn/xet-nghiem-giang-mai-o-dau-chinh-xac/>`_
+
+Chúc các bạn vui vẻ!
