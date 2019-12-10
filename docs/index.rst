@@ -1,6 +1,8 @@
+-----
 Giá khám phụ khoa ở Hà Nội hết bao nhiêu tiền?
+-----
 
-Nhiều phụ nữ tự hỏi không biết bây giờ giá `khám phụ khoa ở Hà Nội <http://phukhoahungthinh.vn/ >`_ hết bao nhiêu tiền khi có mong muốn đi thăm khám để kiểm tra sức khỏe sinh sản của bản thân. Nếu như bạn đang có cùng thắc mắc như trên, chúng tôi nghĩ rằng thông tin trong bài viết dưới đây sẽ giúp cho bạn rất nhiều khi muốn biết về chi phí khám phụ khoa.
+Nhiều phụ nữ tự hỏi không biết bây giờ giá `khám phụ khoa ở Hà Nội <http://phukhoahungthinh.vn/>`_ hết bao nhiêu tiền khi có mong muốn đi thăm khám để kiểm tra sức khỏe sinh sản của bản thân. Nếu như bạn đang có cùng thắc mắc như trên, chúng tôi nghĩ rằng thông tin trong bài viết dưới đây sẽ giúp cho bạn rất nhiều khi muốn biết về chi phí khám phụ khoa.
 
 Quy trình khám phụ khoa có những gì?
 -----
@@ -108,4 +110,4 @@ ________________
 
 - `Chi phí khám phụ khoa <http://phukhoahungthinh.vn/chi-phi-kham-phu-khoa-gia-het-bao-nhieu-tien/>`_
 
-- `Chi phí xét nghiệm giang mai <http://phukhoahungthinh.vn/xet-nghiem-giang-mai-o-dau-chinh-xac/ >`_
+- `Chi phí xét nghiệm giang mai <http://phukhoahungthinh.vn/xet-nghiem-giang-mai-o-dau-chinh-xac/>`_
